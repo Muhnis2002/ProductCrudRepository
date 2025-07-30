@@ -8,6 +8,8 @@ public class ProductManagementSpringBootRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductManagementSpringBootRestApplication.class, args);
+		System.out.println("changed pms");
+		System.out.println("changed pms");
 	}
 
 }
